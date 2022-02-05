@@ -4,20 +4,169 @@ title: Calendar
 uid: 431e2767-3465-1d34-4f7b-cf733ab42717
 ---
 
-| SES # | TOPICS |
-| --- | --- |
-| 1 | Reading and Telling Landscape |
-| 2 | Site Selection due by 5PM |
-| 3 | Light I |
-| 4 | Light II  {{< br >}}  {{< br >}}Light Assignment due in class. |
-| 5 | "Knowing Where to Stand"  {{< br >}}  {{< br >}}Compton Gallery. Exhibit opening 5:30-7:30. |
-| 6 | Elements of Landscape Language |
-| 7 | Significant Detail |
-| 8 | The Context of Place  {{< br >}}  {{< br >}}Detail Assignment due in class. |
-| 9 | Field Trip to Nahant  {{< br >}}  {{< br >}}There will be an all-day field trip to Nahant. We will combine an overview of digital printing in the studio and shooting along the shores of Massachusetts Bay and Boston Harbor. |
-| 10 | Landscapes Poetics |
-| 11 | Images and Words  {{< br >}}  {{< br >}}Poetics Assignment due in class. |
-| 12 | Meetings with Individual Students  {{< br >}}  {{< br >}}Storyboard draft of photo essay due in meeting. |
-| 13 | Landscape Narratives |
-| 14 | Meetings with Individual Students  {{< br >}}  {{< br >}}Draft of website photo essay due online for meeting.  {{< br >}}  {{< br >}}Final Photo Essay due in online gallery two days before session #15. |
-| 15-16 | Review of Photo Essays in Online Galleries
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Reading and Telling Landscape
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Site Selection due by 5PM
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Light I
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Light II  
+  
+Light Assignment due in class.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+"Knowing Where to Stand"  
+  
+Compton Gallery. Exhibit opening 5:30-7:30.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Elements of Landscape Language
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Significant Detail
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+The Context of Place  
+  
+Detail Assignment due in class.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Field Trip to Nahant  
+  
+There will be an all-day field trip to Nahant. We will combine an overview of digital printing in the studio and shooting along the shores of Massachusetts Bay and Boston Harbor.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Landscapes Poetics
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Images and Words  
+  
+Poetics Assignment due in class.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Meetings with Individual Students  
+  
+Storyboard draft of photo essay due in meeting.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Landscape Narratives
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Meetings with Individual Students  
+  
+Draft of website photo essay due online for meeting.  
+  
+Final Photo Essay due in online gallery two days before session #15.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15-16
+{{< tdclose >}}
+{{< tdopen >}}
+Review of Photo Essays in Online Galleries
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
